@@ -2,6 +2,8 @@
 
 Este repositorio contiene ejemplos básicos de cómo utilizar diferentes librerías esenciales de Python en el entorno de Databricks. Cada carpeta corresponde a una librería específica y contiene ejemplos de uso y scripts básicos.
 
+La mayoria de los archivos estan desarrollados en [www.kaggle.com](https://www.kaggle.com)
+
 ## Librerías
 
 ### Pandas
