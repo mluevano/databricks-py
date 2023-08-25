@@ -10,17 +10,41 @@ La mayoria de los archivos estan desarrollados en [www.kaggle.com](https://www.k
 
 En la carpeta [`pandas`](pandas/) encontrarás ejemplos que demuestran cómo cargar, manipular y analizar datos utilizando la librería Pandas.
 
+Para instalar Pandas, puedes ejecutar:
+
+```shell
+pip install pandas
+```
+
 ### Matplotlib
 
 La carpeta [`matplotlib`](matplotlib/) contiene ejemplos de visualización de datos utilizando Matplotlib, una librería popular para crear gráficos y visualizaciones.
+
+Para instalar Matplotlib, puedes ejecutar:
+
+```shell
+pip install matplotlib
+```
 
 ### SQLAlchemy
 
 Dentro de [`sqlalchemy`](sqlalchemy/) se encuentran ejemplos que muestran cómo interactuar con bases de datos usando SQLAlchemy para facilitar la gestión de consultas y conexiones.
 
+Para instalar SQLAlchemy, puedes ejecutar:
+
+```shell
+pip install sqlalchemy
+```
+
 ### PySpark
 
 La carpeta [`pyspark`](pyspark/) contiene ejemplos que ilustran el uso de PySpark para el procesamiento distribuido y análisis de datos a gran escala.
+
+Para instalar PySpark, puedes ejecutar:
+
+```shell
+pip install pyspark
+```
 
 ## Estructura de Carpetas
 
